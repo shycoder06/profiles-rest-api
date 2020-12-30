@@ -1,6 +1,10 @@
 # Created by https://www.gitignore.io/api/python,vagrant
 # Edit at https://www.gitignore.io/?templates=python,vagrant
 
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
